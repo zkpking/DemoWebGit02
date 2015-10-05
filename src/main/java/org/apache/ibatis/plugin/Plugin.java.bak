@@ -39,10 +39,10 @@ import org.apache.ibatis.mapping.ParameterMapping;
 import org.apache.ibatis.reflection.ExceptionUtil;
 import org.apache.ibatis.session.Configuration;
 
-import com.lanyuan.plugin.PagePlugin;
-import com.lanyuan.plugin.PageView;
-import com.lanyuan.util.Common;
-import com.lanyuan.util.EhcacheUtils;
+import com.backstage.plugin.PagePlugin;
+import com.backstage.plugin.PageView;
+import com.backstage.util.Common;
+import com.backstage.util.EhcacheUtils;
 
 /**
  * @author Clinton Begin

@@ -4,8 +4,8 @@ package junit.test;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
-import com.backstage.entity.LogFormMap;
-import com.backstage.mapper.base.BaseMapper;
+import com.lanyuan.entity.LogFormMap;
+import com.lanyuan.mapper.base.BaseMapper;
 
 
 public class ResourcesServiceImplTest {
